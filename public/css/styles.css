@@ -11,6 +11,7 @@ body{
 
 h3{
     font-size: 20px;
+    margin: 10px 0;
 }
 
 p{
@@ -122,6 +123,10 @@ h3,
 
 section.banner img{
     width: 100%;
+}
+
+section.offers {
+    margin-bottom: 20px;
 }
 
 main{
@@ -553,10 +558,6 @@ div.button-register {
 
     .form-register button {
         max-width: 150px;
-    }
-
-    .login-form input {
-        max-width: 40%;
     }
 
     footer .footer-box {
